@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://marinacollier.github.io/duda-von-yoga/sitemap.xml
